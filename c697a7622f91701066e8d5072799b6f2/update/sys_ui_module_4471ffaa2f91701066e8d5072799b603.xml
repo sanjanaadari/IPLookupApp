@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IPAddressInfro">4871ffaa2f91701066e8d5072799b600</application>
+        <filter/>
+        <name>IPAddressInfros</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_666267_iplookup.ipaddressinfro_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-15 14:50:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4471ffaa2f91701066e8d5072799b603</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfros</sys_name>
+        <sys_package display_value="IPLookup" source="x_666267_iplookup">c697a7622f91701066e8d5072799b6f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">c697a7622f91701066e8d5072799b6f2</sys_scope>
+        <sys_update_name>sys_ui_module_4471ffaa2f91701066e8d5072799b603</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-15 14:50:04</sys_updated_on>
+        <table>x_666267_iplookup_ipaddressinfro</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
